@@ -1,0 +1,11 @@
+C:\Users\tweed\source\repos\Lab10CircleTime\Lab10CircleTime\obj\Debug\netcoreapp2.2\Lab10CircleTime.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\Lab10CircleTime\Lab10CircleTime\obj\Debug\netcoreapp2.2\Lab10CircleTime.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\Lab10CircleTime\Lab10CircleTime\obj\Debug\netcoreapp2.2\Lab10CircleTime.AssemblyInfoInputs.cache
+C:\Users\tweed\source\repos\Lab10CircleTime\Lab10CircleTime\obj\Debug\netcoreapp2.2\Lab10CircleTime.AssemblyInfo.cs
+C:\Users\tweed\source\repos\Lab10CircleTime\Lab10CircleTime\bin\Debug\netcoreapp2.2\Lab10CircleTime.deps.json
+C:\Users\tweed\source\repos\Lab10CircleTime\Lab10CircleTime\bin\Debug\netcoreapp2.2\Lab10CircleTime.runtimeconfig.json
+C:\Users\tweed\source\repos\Lab10CircleTime\Lab10CircleTime\bin\Debug\netcoreapp2.2\Lab10CircleTime.runtimeconfig.dev.json
+C:\Users\tweed\source\repos\Lab10CircleTime\Lab10CircleTime\bin\Debug\netcoreapp2.2\Lab10CircleTime.dll
+C:\Users\tweed\source\repos\Lab10CircleTime\Lab10CircleTime\bin\Debug\netcoreapp2.2\Lab10CircleTime.pdb
+C:\Users\tweed\source\repos\Lab10CircleTime\Lab10CircleTime\obj\Debug\netcoreapp2.2\Lab10CircleTime.dll
+C:\Users\tweed\source\repos\Lab10CircleTime\Lab10CircleTime\obj\Debug\netcoreapp2.2\Lab10CircleTime.pdb
